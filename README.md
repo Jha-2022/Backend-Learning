@@ -1,1 +1,16 @@
 # Backend-Learning
+
+```
+Browser
+  → sends request: "Give me profile data of user X"
+Backend
+  → validates user
+  → fetches profile DATA from DB
+Database
+  → returns structured data
+Backend
+  → formats response (JSON)
+Browser
+  → renders profile UI
+
+```
