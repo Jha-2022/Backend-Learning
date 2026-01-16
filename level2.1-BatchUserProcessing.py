@@ -1,3 +1,11 @@
+
+# Validation service
+
+# Registration service
+
+# Response formatter
+
+
 # Validation logic reused from previous steps
 def validate_username(username):
     if len(str(username)) < 4:
