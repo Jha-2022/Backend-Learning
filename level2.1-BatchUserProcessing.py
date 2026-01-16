@@ -1,9 +1,9 @@
 
-# Validation service
+# Validation service   ->  Store valid users
 
-# Registration service
+# Registration service  ->  Reject duplicates
 
-# Response formatter
+# Response formatter    ->  json formatting  
 
 
 # Validation logic reused from previous steps
